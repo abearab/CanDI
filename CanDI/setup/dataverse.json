@@ -1,0 +1,24 @@
+{
+    "DATAVERSE_DOI": "doi:10.7910/DVN/JIAT0H",
+    "datasets": [
+        {
+            "name": "CCLE_expression", "id": 8076862, "type": "csv"
+        },{
+            "name": "CCLE_fusions", "id": 10085763, "type": "csv"
+        },{
+            "name": "CCLE_gene_cn", "id": 8076861, "type": "csv"
+        },{
+            "name": "CCLE_mutations", "id": 8076857, "type": "csv"
+        },{
+            "name": "CCLE_RNAseq_reads", "id": 8076859, "type": "csv"
+        },{
+            "name": "CRISPR_gene_dependency", "id": 8076863, "type": "csv"
+        },{
+            "name": "CRISPR_gene_effect", "id": 8076860, "type": "csv"
+        },{
+            "name": "sample_info", "id": 10085764, "type": "csv"
+        },{
+            "name": "README", "id": 8151459, "type": "txt"
+        }
+    ]
+}
