@@ -1,5 +1,5 @@
 {
-    "DATAVERSE_DOI": "doi:10.7910/DVN/JIAT0H",
+    "doi": "doi:10.7910/DVN/JIAT0H",
     "datasets": [
         {
             "name": "CCLE_expression", "id": 8076862, "type": "csv"
